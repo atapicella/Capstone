@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=grid
+comment0.target=Evolver(Grid)
+comment1.params=parentSolutions
+comment1.target=PossibleSolution[]\ crossover(PossibleSolution[])
+comment2.params=solutions
+comment2.target=PossibleSolution[]\ evaluateFitness(PossibleSolution[])
+comment3.params=solutions
+comment3.target=PossibleSolution\ findFittest(PossibleSolution[])
+comment4.params=
+comment4.target=PossibleSolution\ getFinalSolution()
+comment5.params=
+comment5.target=int\ getGenerationCount()
+numComments=6

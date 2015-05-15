@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grid()
+comment1.params=numberOfPoints
+comment1.target=void\ generatePoints(int)
+comment2.params=g
+comment2.target=void\ drawPoints(java.awt.Graphics)
+comment3.params=
+comment3.target=java.awt.Point\ createRandomPoint()
+numComments=4

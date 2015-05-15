@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paintComponent(java.awt.Graphics)
+comment1.params=doubleToConvert
+comment1.target=java.lang.String\ toString(double)
+numComments=2

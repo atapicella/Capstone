@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grid
+comment0.target=InitialState(Grid)
+comment1.params=
+comment1.target=void\ createInitialState()
+comment2.params=arrayToConsolidate
+comment2.target=java.awt.Point[]\ consolidateArray(java.awt.Point[])
+numComments=3
